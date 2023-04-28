@@ -4,7 +4,7 @@
 A simple gui script for the game [Pet Rift](https://www.roblox.com/games/11448052802/HEAVEN-Pet-Rift) on roblox
 
 ```lua
-loadstring(game:HttpGet(("https://github.com/poke000000000/pet-rift-script-/raw/main/script"), true))()
+loadstring(game:HttpGet(("https://github.com/poke000000000/pet-rift-/raw/main/script"), true))()
 ```
 
 ## Credits
